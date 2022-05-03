@@ -1,5 +1,5 @@
 # WebKovos_Kaunas2022
 Vtmc Edvinas Karalis
 
-Antros dienos uzduoties atlikimas. #NASAapi
-his site was built using [GitHub Pages](https://hhvis.github.io/WebKovos_Kaunas2022/).
+Antros dienos uzduoties atlikimas. #NASAapi.<br />
+Check it out - [Page](https://hhvis.github.io/WebKovos_Kaunas2022/).
